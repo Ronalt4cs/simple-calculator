@@ -21,4 +21,4 @@ Basic calculator made only with HTML, CSS and Javascript
 
 `press CTRL + click to open in new tab`
 
-https://ronalt4cs.github.io/simple-calculator/
+frontend-mentor-chalenge-calculator.vercel.app
