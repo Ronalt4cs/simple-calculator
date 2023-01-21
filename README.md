@@ -19,6 +19,5 @@ Basic calculator made only with HTML, CSS and Javascript
 
 ## 🔗 Link to test
 
-`press CTRL + click to open in new tab`
-
-frontend-mentor-chalenge-calculator.vercel.app
+`press CTRL + click to open in new tab `
+[click here](frontend-mentor-chalenge-calculator.vercel.app)
